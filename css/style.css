@@ -149,14 +149,22 @@ p {
 
     height: 300px;
     display: flex;
+    justify-content: center;
+    align-items: flex-start;
     flex-direction: column;
     gap: 20px;
-    padding: 100px 0px 0px 150px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.sobre h2 {
+    display: flex;
+    align-self: flex-start;
 }
 
 .sobre p {
-    width: 800px;
-    text-align: justify;
+    width: 845px;
+    max-width: 100%;
 }
 
 .tecnologias {
