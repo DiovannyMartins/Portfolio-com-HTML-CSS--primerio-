@@ -16,7 +16,7 @@ Portfólio pessoal desenvolvido com HTML e CSS para apresentar meus projetos e h
 Adicione uma imagem ou GIF do projeto aqui.
 
 ## 🔗 Deploy
-https://diovannymartins.github.io/Portfolio-com-HTML-CSS--primerio-/#projetos
+https://diovannymartins.github.io/frontend-portfolio/
 
 ## 📚 Aprendizados
 Durante o desenvolvimento deste projeto pratiquei:
